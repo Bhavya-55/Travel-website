@@ -579,3 +579,10 @@ color: #e63946;
     }
   
 }
+@media (max-width:355px){
+    .count-item{
+        float: none;
+        width: 100%;
+        text-align: center;
+    }
+}
